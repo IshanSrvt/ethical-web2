@@ -799,6 +799,8 @@ h6 {
 --------------------------------------------------------------*/
 #schedule {
   padding: 60px 0 60px 0;
+  background: rgb(6, 9, 20);
+  color: rgb(7, 61, 168);
 }
 
 #schedule .nav-tabs {
@@ -818,8 +820,8 @@ h6 {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #0e1b4d;
-  color: #fff;
+  background: rgb(9, 14, 30);
+  color: rgb(240, 241, 243);
   padding: 10px 100px;
 }
 
@@ -871,7 +873,7 @@ h6 {
 }
 
 #schedule .schedule-item:hover {
-  background-color: #fff;
+  background-color: #b70606ad;
 }
 
 #schedule .schedule-item time {
