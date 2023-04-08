@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Sci-Fi</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center ">
+    <div class="container-fluid container-xxl d-flex align-items-center">
+
+      <div id="logo" class="me-auto">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
+        <a href="index.html" class="scrollto"><img src="assets/img/logo.png" alt="" title=""></a>
+      </div>
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">House</a></li>
+          <li><a class="nav-link scrollto" href="#about">Hacking</a></li>
+          <li><a class="nav-link scrollto" href="#speakers">Types</a></li>
+          <li><a class="nav-link scrollto" href="#schedule">Solution</a></li>
+          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <ul>
+            <li><a href="#">Drop Down 1</a></li>
+            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="#">Deep Drop Down 1</a></li>
+                <li><a href="#">Deep Drop Down 2</a></li>
+                <li><a href="#">Deep Drop Down 3</a></li>
+                <li><a href="#">Deep Drop Down 4</a></li>
+                <li><a href="#">Deep Drop Down 5</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Drop Down 2</a></li>
+            <li><a href="#">Drop Down 3</a></li>
+            <li><a href="#">Drop Down 4</a></li>
+          </ul>
+        </li> -->
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+      
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
+      <h1 class="mb-4 pb-0">Ethical Hacking <br><span>Rise of cyber crime</span> risks to data</h1>
+      <p class="mb-4 pb-0">Project by Team: Sci-Fi on how hackers operate and the techniques they use to penetrate systems</p>
+      <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a> -->
+      <a href="#about" class="about-btn scrollto">About Website</a>
+    </div>
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about">
+      <div class="container" data-aos="fade-up">
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>About</h2>
+            <p>Your organisation is vulnerable to a variety of cyber attacks that can result in data theft,
+               financial losses, and reputational harm. we will look into a few of the most common
+                types of cyber attacks along with methods to prevent them.
+                helping organisations understand how hackers operate and the techniques they use to penetrate systems. 
+                How they can carry out regular testing of their systems for security vulnerabilities and also helping the organisations to comply with these regulations.
+              </p>
+          </div>
+          
+          
+        </div>
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Speakers Section ======= -->
+    <section id="speakers">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Types of Attacks</h2>
+          <p>Attacks usually practiced by Hackers</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+              <img src="assets/img/speakers/hacker.jpg" alt="Speaker 1" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">Social engineering</a></h3>
+                <p>Social engineering is a technique used by attackers to manipulate people into divulging sensitive information, such as passwords, personal information, or other confidential data.                </p>
+                <div class="social">
+                  Tap to know more...
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="200">
+              <img src="assets/img/speakers/hacker.jpg" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">Phishing attack</a></h3>
+                <p>type of social engineering attack in which an attacker sends a deceptive message, that appears to come from a legitimate source. The purpose is to trick the recipient into revealing sensitive information such as login credentials, credit card numbers and other personal information.</p>
+                <div class="social">
+                  Tap to know more...
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="300">
+              <img src="assets/img/speakers/hacker.jpg" alt="Speaker 3" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">Malware</a></h3>
+                <p>Malware, short for "malicious software," refers to any software program designed to harm, exploit, or disrupt a computer system, network, or device. Malware can take many different forms, including viruses, worms, Trojans, ransomware, adware, and spyware.</p>
+                <div class="social">
+                  Tap to know more...
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="100">
+              <img src="assets/img/speakers/hacker.jpg" alt="Speaker 4" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">Brute Force</a></h3>
+                <p>A brute force attack is a type of cyber attack in which an attacker tries every possible combination of characters or passwords to guess a secret identifier, such as a password, encryption key, or PIN. The goal of a brute force attack is to gain unauthorized access to a system or an account.                </p>
+                <div class="social">
+                  Tap to know more...
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker" data-aos="fade-up" data-aos-delay="200">
+              <img src="assets/img/speakers/hacker.jpg" alt="Speaker 5" class="img-fluid">
+              <div class="details">
+                <h3><a href="speaker-details.html">SQL Injection</a></h3>
+                <p>type of web application vulnerability that occurs when a website's code fails to properly validate user input, allowing an attacker to insert malicious SQL statements that can access, modify, or delete sensitive data.</p>
+                <div class="social">
+                  Tap to know more...
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- End Speakers Section -->
+
+    <!-- ======= Schedule Section ======= -->
+    <section id="schedule" class="section-with-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Cyber-Crime</h2>
+          <p>Recent News on Cyber-Crimes</p>
+        </div>
+
+      
+
+        <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
+
+          <!-- Schdule Day 1 -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+
+            
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                </div>
+                <h4>Keynote <span>Brenden Legros</span></h4>
+                <p>Facere provident incidunt quos voluptas.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                </div>
+                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
+                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                </div>
+                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
+                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
+                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                </div>
+                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
+                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
+                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Day 1 -->
+
+          <!-- Schdule Day 2 -->
+          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                </div>
+                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
+                <p>Facere provident incidunt quos voluptas.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                </div>
+                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
+                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                </div>
+                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
+                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
+                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                </div>
+                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
+                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
+                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Day 2 -->
+
+          <!-- Schdule Day 3 -->
+          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                </div>
+                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
+                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                </div>
+                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
+                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
+                </div>
+                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
+                <p>Facere provident incidunt quos voluptas.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                </div>
+                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
+                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                </div>
+                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
+                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
+                </div>
+                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
+                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Day 2 -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Schedule Section -->
+
+ 
+
+   
+
+   
+
+    <!-- ======= Supporters Section ======= -->
+    <section id="supporters" class="section-with-bg">
+
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Sponsors</h2>
+        </div>
+
+        <div class="row no-gutters supporters-wrap clearfix" data-aos="zoom-in" data-aos-delay="100">
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/1.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/2.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/3.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/4.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/5.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/6.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/7.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="assets/img/supporters/8.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- End Sponsors Section -->
+
+
+    <!-- ======= Subscribe Section ======= -->
+    <section id="subscribe">
+      <div class="container" data-aos="zoom-in">
+        <div class="section-header">
+          <h2>Newsletter</h2>
+          <p>Rerum numquam illum recusandae quia mollitia consequatur.</p>
+        </div>
+
+        <form method="POST" action="#">
+          <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-10 d-flex">
+              <input type="text" class="form-control" placeholder="Enter your Email">
+              <button type="submit" class="ms-2">Subscribe</button>
+            </div>
+          </div>
+        </form>
+
+      </div>
+    </section><!-- End Subscribe Section -->
+
+ 
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="section-bg">
+
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Contact Us</h2>
+          <p>Nihil officia ut sint molestiae tenetur.</p>
+        </div>
+
+        <div class="row contact-info">
+
+          <div class="col-md-4">
+            <div class="contact-address">
+              <i class="bi bi-geo-alt"></i>
+              <h3>Address</h3>
+              <address>A108 Adam Street, NY 535022, USA</address>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-phone">
+              <i class="bi bi-phone"></i>
+              <h3>Phone Number</h3>
+              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-email">
+              <i class="bi bi-envelope"></i>
+              <h3>Email</h3>
+              <p><a href="mailto:info@example.com">info@example.com</a></p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="form">
+          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+              </div>
+              <div class="form-group col-md-6 mt-3 mt-md-0">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+              </div>
+            </div>
+            <div class="form-group mt-3">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+            </div>
+            <div class="form-group mt-3">
+              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+            </div>
+            <div class="my-3">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+          </form>
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <img src="assets/img/logo.png" alt="TheEvenet">
+            <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              A108 Adam Street <br>
+              New York, NY 535022<br>
+              United States <br>
+              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <strong>Email:</strong> info@example.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bi bi-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>Sci-Fi</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        
+        Designed by <a href="https://bootstrapmade.com/">Team: Sci-Fi</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
